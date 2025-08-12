@@ -56,8 +56,10 @@ print(len("Hola") != len("Adiós"))
 print(len("Hola") >= len("Adiós"))
 print(len("Hola") <= len("Adiós"))
 
-#Operadores lógicos
+#Operadores lógicos completo
 
 print(True and False)
 print(True or False)
-print(not True)
+print(not True) 
+
+

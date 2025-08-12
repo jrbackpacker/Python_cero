@@ -1,4 +1,6 @@
-# Python desde cero## Objetivo
+# Python desde cero
+
+## Objetivo
 
 Repasar y consolidar los conceptos básicos de Python, asegurando una base sólida para avanzar hacia temas más avanzados.
 
