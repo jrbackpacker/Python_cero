@@ -15,6 +15,8 @@ Repasar y consolidar los conceptos básicos de Python, asegurando una base sóli
 - Módulos y paquetes
 - Manejo de errores
 - Prácticas recomendadas
+- Bucles
+
 
 ## Motivación
 
