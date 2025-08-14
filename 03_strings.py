@@ -1,4 +1,4 @@
-# Strings
+## Strings ##
 
 my_string = "Hola Jesús"
 
